@@ -1,5 +1,3 @@
-# Welcome to My Blog
-
 ## 个人简历
 - 技术博客：
 - GitHub：
